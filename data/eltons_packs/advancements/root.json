@@ -1,0 +1,18 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:command_block"
+		},
+		"title": "Elton's Stuff Datapacks",
+		"frame": "challenge",
+		"description": ["",{"text":"All loaded data packs\n","color":"gold"},{"text":"twitter.com/EltonsStuff","color":"yellow"}],
+		"background": "minecraft:textures/block/black_concrete.png",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

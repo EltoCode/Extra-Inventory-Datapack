@@ -1,0 +1,16 @@
+move any functions that the player shouldn't run here.
+
+craft_inv_crystal
+finish_match
+format_inv
+get_match
+init_player
+inv_drop_death
+inv_drop_query
+load_inv_from_chest
+read_inv
+tick
+triggers
+use_crystal
+write_inv
+uninstall

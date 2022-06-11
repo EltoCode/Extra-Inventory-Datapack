@@ -1,0 +1,7 @@
+{
+	"values": [
+		"ex_inv:load",
+		"ex_inv:tick",
+		"ex_inv:triggers"
+	]
+}

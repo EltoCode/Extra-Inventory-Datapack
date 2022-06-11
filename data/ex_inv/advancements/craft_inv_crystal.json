@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "ex_inv:inv_crystal"
+      }
+    }
+  },
+  "rewards": {
+    "function": "ex_inv:craft_inv_crystal"
+  }
+}
